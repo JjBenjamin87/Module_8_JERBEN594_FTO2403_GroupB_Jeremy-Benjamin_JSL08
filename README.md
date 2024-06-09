@@ -1,3 +1,7 @@
+JSL08 Loom Video Link: [https://www.loom.com/share/774025027648440cb87d1858a7daab3a?sid=bb04a6f9-384a-4a90-a7b4-e7d9dfae2071]
+
+
+
 # [JSL08] Submission: Singleton Pattern for Bank Branch Management
 
 You will:
